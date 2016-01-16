@@ -1,4 +1,6 @@
 *.pyc
+.DS_Store
+.ropeproject/
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
